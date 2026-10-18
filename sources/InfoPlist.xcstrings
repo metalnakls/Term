@@ -21,37 +21,37 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "iTerm2"
+            "value" : "Term"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "iTerm2"
+            "value" : "Term"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "iTerm2"
+            "value" : "Term"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "iTerm2"
+            "value" : "Term"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "iTerm2"
+            "value" : "Term"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "iTerm2"
+            "value" : "Term"
           }
         }
       }

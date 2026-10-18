@@ -246,7 +246,7 @@
         <key>CFBundleHelpBookName</key>
         <string>iTerm2 Help</string>
 	<key>CFBundleIconName</key>
-	<string>iTerm2 App Icon for Beta</string>
+	<string>Term</string>
         <key>CFBundleIconFile</key>
         <string>iTerm2.icns</string>
         <key>CFBundleIdentifier</key>
@@ -254,7 +254,7 @@
         <key>CFBundleInfoDictionaryVersion</key>
         <string>6.0</string>
         <key>CFBundleName</key>
-        <string>iTerm2</string>
+        <string>Term</string>
         <key>CFBundlePackageType</key>
         <string>APPL</string>
         <key>CFBundleShortVersionString</key>

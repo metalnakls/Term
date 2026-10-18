@@ -1,0 +1,182 @@
+{
+  "color-space-for-untagged-svg-colors" : "display-p3",
+  "fill-specializations" : [
+    {
+      "value" : {
+        "linear-gradient" : [
+          "display-p3:0.94118,0.95686,0.93333,1.00000",
+          "display-p3:0.85490,0.89412,0.85098,1.00000"
+        ]
+      }
+    },
+    {
+      "appearance" : "dark",
+      "value" : "automatic"
+    }
+  ],
+  "groups" : [
+    {
+      "hidden" : false,
+      "layers" : [
+        {
+          "hidden" : true,
+          "image-name" : "bezel.png",
+          "name" : "bezel",
+          "position" : {
+            "scale" : 0.67,
+            "translation-in-points" : [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "fill-specializations" : [
+            {
+              "appearance" : "tinted",
+              "value" : {
+                "solid" : "extended-gray:1.00000,1.00000"
+              }
+            }
+          ],
+          "glass" : true,
+          "hidden" : false,
+          "image-name-specializations" : [
+            {
+              "value" : "cursor-light.svg"
+            },
+            {
+              "appearance" : "dark",
+              "value" : "cursor.svg"
+            },
+            {
+              "appearance" : "tinted",
+              "value" : "cursor.svg"
+            }
+          ],
+          "name" : "cursor",
+          "opacity" : 0.42,
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              109.0859375,
+              191.1875
+            ]
+          }
+        },
+        {
+          "fill-specializations" : [
+            {
+              "appearance" : "tinted",
+              "value" : {
+                "solid" : "extended-gray:1.00000,1.00000"
+              }
+            }
+          ],
+          "hidden" : false,
+          "image-name-specializations" : [
+            {
+              "value" : "dollar-light.svg"
+            },
+            {
+              "appearance" : "dark",
+              "value" : "dollar.svg"
+            },
+            {
+              "appearance" : "tinted",
+              "value" : "dollar.svg"
+            }
+          ],
+          "name" : "dollar",
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              154.6640625,
+              185.5390625
+            ]
+          }
+        }
+      ],
+      "refractivity" : {
+        "depth" : 0,
+        "enabled" : false,
+        "strength" : 0.5
+      },
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.66
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.66
+      }
+    },
+    {
+      "hidden" : false,
+      "layers" : [
+        {
+          "glass" : false,
+          "hidden" : true,
+          "image-name-specializations" : [
+            {
+              "value" : "crt-light.png"
+            },
+            {
+              "appearance" : "dark",
+              "value" : "blank.png"
+            },
+            {
+              "appearance" : "tinted",
+              "value" : "blank.png"
+            }
+          ],
+          "name" : "crt",
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "image-name-specializations" : [
+            {
+              "value" : "crt-light 2.png"
+            },
+            {
+              "appearance" : "dark",
+              "value" : "blank.png"
+            },
+            {
+              "appearance" : "tinted",
+              "value" : "blank.png"
+            }
+          ],
+          "name" : "crt",
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              0,
+              0
+            ]
+          }
+        }
+      ],
+      "name" : "crt",
+      "shadow" : {
+        "kind" : "none",
+        "opacity" : 0
+      },
+      "translucency" : {
+        "enabled" : false,
+        "value" : 0
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "squares" : [
+      "macOS"
+    ]
+  }
+}

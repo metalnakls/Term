@@ -1478,37 +1478,37 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "iTerm2"
+            "value" : "Term"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "iTerm2"
+            "value" : "Term"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "iTerm2"
+            "value" : "Term"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "iTerm2"
+            "value" : "Term"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "iTerm2"
+            "value" : "Term"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "iTerm2"
+            "value" : "Term"
           }
         }
       }
@@ -1520,37 +1520,37 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "iTerm2"
+            "value" : "Term"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "iTerm2"
+            "value" : "Term"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "iTerm2"
+            "value" : "Term"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "iTerm2"
+            "value" : "Term"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "iTerm2"
+            "value" : "Term"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "iTerm2"
+            "value" : "Term"
           }
         }
       }
@@ -1814,37 +1814,37 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "iTerm2-Hilfe"
+            "value" : "Term-Hilfe"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "iTerm2 Help"
+            "value" : "Term Help"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "iTerm2ヘルプ"
+            "value" : "Termヘルプ"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ajuda do iTerm2"
+            "value" : "Ajuda do Term"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Справка по iTerm2"
+            "value" : "Справка по Term"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "iTerm2 帮助"
+            "value" : "Term 帮助"
           }
         }
       }
@@ -1982,37 +1982,37 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "iTerm2 ausblenden"
+            "value" : "Term ausblenden"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Hide iTerm2"
+            "value" : "Hide Term"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "iTerm2を隠す"
+            "value" : "Termを隠す"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ocultar o iTerm2"
+            "value" : "Ocultar o Term"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Скрыть iTerm2"
+            "value" : "Скрыть Term"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "隐藏 iTerm2"
+            "value" : "隐藏 Term"
           }
         }
       }
@@ -2024,37 +2024,37 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "iTerm2 beenden"
+            "value" : "Term beenden"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Quit iTerm2"
+            "value" : "Quit Term"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "iTerm2を終了"
+            "value" : "Termを終了"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Encerrar o iTerm2"
+            "value" : "Encerrar o Term"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Завершить iTerm2"
+            "value" : "Завершить Term"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "退出 iTerm2"
+            "value" : "退出 Term"
           }
         }
       }
@@ -2486,37 +2486,37 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Über iTerm2"
+            "value" : "Über Term"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "About iTerm2"
+            "value" : "About Term"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "iTerm2について"
+            "value" : "Termについて"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sobre o iTerm2"
+            "value" : "Sobre o Term"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "О программе iTerm2"
+            "value" : "О программе Term"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "关于 iTerm2"
+            "value" : "关于 Term"
           }
         }
       }
@@ -6560,37 +6560,37 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "iTerm2 als Standardterminal festlegen"
+            "value" : "Term als Standardterminal festlegen"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Make iTerm2 Default Term"
+            "value" : "Make Term Default Term"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "iTerm2を既定のターミナルにする"
+            "value" : "Termを既定のターミナルにする"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tornar o iTerm2 o terminal padrão"
+            "value" : "Tornar o Term o terminal padrão"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сделать iTerm2 терминалом по умолчанию"
+            "value" : "Сделать Term терминалом по умолчанию"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "将 iTerm2 设为默认终端"
+            "value" : "将 Term 设为默认终端"
           }
         }
       }
@@ -10046,37 +10046,37 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Remote-Host darf iTerm2 steuern"
+            "value" : "Remote-Host darf Term steuern"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Remote host can control iTerm2"
+            "value" : "Remote host can control Term"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "リモートホストがiTerm2を制御できる"
+            "value" : "リモートホストがTermを制御できる"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "O host remoto pode controlar o iTerm2"
+            "value" : "O host remoto pode controlar o Term"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Удалённый узел может управлять iTerm2"
+            "value" : "Удалённый узел может управлять Term"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "远程主机可以控制 iTerm2"
+            "value" : "远程主机可以控制 Term"
           }
         }
       }
